@@ -3,7 +3,7 @@
 Here lies the starter files for the Pomodoro timer tutorial which can be found
 here: https://freshman.tech/pomodoro-timer
 
-## Live demo
+##your application is very nice 
 
 The completed version of this project is live at
 https://freshman-pomodoro.surge.sh/
